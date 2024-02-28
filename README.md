@@ -1,3 +1,5 @@
+# Conatainer set
+[![Build status](https://ci.appveyor.com/api/projects/status/s8jtvkewl952gk1o?svg=true)](https://ci.appveyor.com/project/SubHunt/ajs-8-container-set)
 Домашнее задание к лекции «Контейнеры»
 Важно: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
